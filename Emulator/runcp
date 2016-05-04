@@ -1,0 +1,3 @@
+xterm -e bridge cs1 8 &
+xterm -e bridge cs2 8 &
+xterm -e bridge cs3 8 &
